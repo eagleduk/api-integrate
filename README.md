@@ -6,3 +6,6 @@
 ** api 조회 사이트 https://jsonplaceholder.typicode.com/
 
 2. useState 를 이용한 api 요청
+
+3. useReducer 를 이용한 api 요청
+- 요청 관리에 대한 코드를 파일로 작성하여 재사용 가능
