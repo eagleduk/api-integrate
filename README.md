@@ -16,3 +16,6 @@
 4. react-async 로 요청 상태 관리하기
 - react-async 설치 (yarn add react-async)
 ** react-async 관련 문서 https://github.com/async-library/react-async
+
+5. Context 에서 비동기작업 상태 관리
+- 처음 랜더링시 함수를 실행하려면 useEffect 를 사용...
