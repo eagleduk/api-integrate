@@ -12,3 +12,7 @@
 
 3. custom hook 으로 reducer 만들기
 - callback 함수로 custom hook 을 재사용 가능하다
+
+4. react-async 로 요청 상태 관리하기
+- react-async 설치 (yarn add react-async)
+** react-async 관련 문서 https://github.com/async-library/react-async
